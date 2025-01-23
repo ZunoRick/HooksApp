@@ -1,4 +1,4 @@
-import { Navigate, Route, Routes } from "react-router"
+import { Navigate, Route, Routes } from 'react-router'
 import { UserProvider } from "./context/UserProvider"
 import { HomePage } from './HomePage'
 import { AboutPage } from './AboutPage'
